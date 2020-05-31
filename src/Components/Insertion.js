@@ -8,7 +8,7 @@ class Insertion extends React.Component {
     this.state = {
       data: [
         {
-          name: `John`,
+          nom: `John`,
           age: `20`
         }
       ]
